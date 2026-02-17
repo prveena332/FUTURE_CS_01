@@ -1,1 +1,1 @@
-# FUTURE_CS_01
+Blogger.com, despite benefiting from Google’s strong baseline security (TLS 1.3, HSTS, hardened infrastructure), shows notable gaps such as missing Content-Security-Policy and X-Frame-Options headers, insecure cookie attributes without SameSite, and exposure of multiple subdomains. These issues pose high risks like XSS, clickjacking, and CSRF, while medium risks include DNS exposure. Addressing these with proper header implementation, cookie hardening, and DNS hygiene would significantly strengthen its overall security posture.
