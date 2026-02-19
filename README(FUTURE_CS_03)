@@ -1,0 +1,1 @@
+This document provides a structured security risk analysis of a public demo API (Swagger Petstore). The assessment focuses on authentication, data exposure, rate limiting, error handling, encryption, CORS, and input validation. The report highlights business impacts and offers actionable recommendations to strengthen API security
